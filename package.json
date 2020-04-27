@@ -79,7 +79,7 @@
     "flow-typed": "^3.1.0",
     "husky": "^4.2.3",
     "jest": "^25.1.0",
-    "lint-staged": "^10.0.8",
+    "lint-staged": "^10.1.7",
     "prettier": "^2.0.1",
     "prettier-stylelint": "^0.4.2",
     "react-dev-utils": "^10.2.0",
