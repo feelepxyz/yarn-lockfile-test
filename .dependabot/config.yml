@@ -1,5 +1,0 @@
-version: 12
-update_configs:
- - package_manager: javascript
-   directory: /
-   update_schedule: daily
