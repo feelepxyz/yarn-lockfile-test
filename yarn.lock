@@ -1037,12 +1037,12 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@blueprintjs/core@^3.19.0", "@blueprintjs/core@^3.23.0", "@blueprintjs/core@^3.23.1", "@blueprintjs/core@^3.24.0":
-  version "3.24.0"
-  resolved "https://registry.yarnpkg.com/@blueprintjs/core/-/core-3.24.0.tgz#593a2b289bb94224f3a924eb1b3065ea3c4ca00a"
-  integrity sha512-qW29DDPjzYsT27J6n97C0jZ1ifvEEziwNC98UhaKdSE7I8qxbLsb+ft2JOop+pEX4ab67T1lhQKAiQjWCPKZng==
+"@blueprintjs/core@^3.23.0", "@blueprintjs/core@^3.23.1", "@blueprintjs/core@^3.26.1":
+  version "3.26.1"
+  resolved "https://registry.yarnpkg.com/@blueprintjs/core/-/core-3.26.1.tgz#371b6c83a937efb6d9a6947c3c5b55dba09bb838"
+  integrity sha512-f5U9RBvSMV/eLEXlBeaYbx+LRAcrsSrnK8gScM4Jwnuto6d9m6CeVxNe6YkQxvKOs4lhiC+UdPN2A9yJcXrGHA==
   dependencies:
-    "@blueprintjs/icons" "^3.14.0"
+    "@blueprintjs/icons" "^3.16.0"
     "@types/dom4" "^2.0.1"
     classnames "^2.2"
     dom4 "^2.1.5"
@@ -1064,34 +1064,34 @@
     react-day-picker "7.3.2"
     tslib "~1.9.0"
 
-"@blueprintjs/icons@^3.14.0":
-  version "3.14.0"
-  resolved "https://registry.yarnpkg.com/@blueprintjs/icons/-/icons-3.14.0.tgz#9f9a51b116907d103e4e2e9b78d53d4ac6f107fd"
-  integrity sha512-cvQ3CSdy0DqVqcXcPqSxoycJw497TVP5goyE6xCFlVs84477ahxh7Uung6J+CCoDVBuI87h576LtuyjwSxorvQ==
+"@blueprintjs/icons@^3.16.0":
+  version "3.16.0"
+  resolved "https://registry.yarnpkg.com/@blueprintjs/icons/-/icons-3.16.0.tgz#902c74a36ff24ad76fa309cca25b6877c2a9c027"
+  integrity sha512-VVBvgnpz8eQFhnX5OQGLdRqka9DU/CTtF3w9vnwKK2r9N/xRF0BPe9Ev1RzuUzP4GJG4GUIRaqiAX9+l/FviDg==
   dependencies:
     classnames "^2.2"
     tslib "~1.10.0"
 
-"@blueprintjs/select@^3.11.0", "@blueprintjs/select@^3.12.0":
-  version "3.12.0"
-  resolved "https://registry.yarnpkg.com/@blueprintjs/select/-/select-3.12.0.tgz#cd20b39ecb79c9c117d9a26fd54789ed6d605aec"
-  integrity sha512-rABlv5M+h7onuoUuNsratyiukPnkdblDm7lt7GT4fbRmJglSsKylNnfHogNDZkMMHqmgmVB05mgzBQ+kcLA1cw==
+"@blueprintjs/select@^3.12.0", "@blueprintjs/select@^3.12.3":
+  version "3.12.3"
+  resolved "https://registry.yarnpkg.com/@blueprintjs/select/-/select-3.12.3.tgz#27a660d794b2464da2453991dedd115186766a92"
+  integrity sha512-WU6RGk2NSlPS4VjcpljmGQY+w4ezMCazoQfh37JMDNq5Xa/wzrKaleXifMmZUUWJNvjtsZ0sNDNLzI+DGuX0dQ==
   dependencies:
-    "@blueprintjs/core" "^3.24.0"
+    "@blueprintjs/core" "^3.26.1"
     classnames "^2.2"
     tslib "~1.10.0"
 
-"@blueprintjs/timezone@^3.6.1":
-  version "3.6.1"
-  resolved "https://registry.yarnpkg.com/@blueprintjs/timezone/-/timezone-3.6.1.tgz#b617ee3d049e23113540fcc2bf7fab000546e3a9"
-  integrity sha512-emCKUP9iEYFOxEMMcm1aQFaePs7mbeiRlH1NOnG3kwZnPxZYK6zUtpe/tP6dyWhBNxjFaDjFJ+f8JbyYGPtktQ==
+"@blueprintjs/timezone@^3.6.3":
+  version "3.6.3"
+  resolved "https://registry.yarnpkg.com/@blueprintjs/timezone/-/timezone-3.6.3.tgz#0ec06e156648f1a9d15d08adf0f33d9d85b9750a"
+  integrity sha512-yW8JHJ30pnff3NDkWsH1F+4hBnKddhkdI/e0/L7pq1yOpblsTFKWGfON16MFT9L+2EG63zYk2mEFsue0ICgg/g==
   dependencies:
-    "@blueprintjs/core" "^3.19.0"
-    "@blueprintjs/select" "^3.11.0"
+    "@blueprintjs/core" "^3.26.1"
+    "@blueprintjs/select" "^3.12.3"
     classnames "^2.2"
     moment "^2.24.0"
     moment-timezone "^0.5.27"
-    tslib "~1.9.0"
+    tslib "~1.10.0"
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.3"
@@ -12131,7 +12131,7 @@ saxes@^3.1.9:
   dependencies:
     xmlchars "^2.1.1"
 
-scheduler@^0.19.0, scheduler@^0.19.1:
+scheduler@^0.19.1:
   version "0.19.1"
   resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.19.1.tgz#4f3e2ed2c1a7d65681f4c854fa8c5a1ccb40f196"
   integrity sha512-n/zwRWRYSUj0/3g/otKDRPMh6qv2SYMWNq85IEa8iZyAv8od9zDYpGSnpBEjNgcMNq6Scbu5KfIPxNF72R/2EA==
