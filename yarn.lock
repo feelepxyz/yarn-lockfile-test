@@ -1037,12 +1037,12 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@blueprintjs/core@^3.19.0", "@blueprintjs/core@^3.23.0", "@blueprintjs/core@^3.23.1", "@blueprintjs/core@^3.24.0":
-  version "3.24.0"
-  resolved "https://registry.yarnpkg.com/@blueprintjs/core/-/core-3.24.0.tgz#593a2b289bb94224f3a924eb1b3065ea3c4ca00a"
-  integrity sha512-qW29DDPjzYsT27J6n97C0jZ1ifvEEziwNC98UhaKdSE7I8qxbLsb+ft2JOop+pEX4ab67T1lhQKAiQjWCPKZng==
+"@blueprintjs/core@^3.19.0", "@blueprintjs/core@^3.23.0", "@blueprintjs/core@^3.24.0", "@blueprintjs/core@^3.27.0":
+  version "3.27.0"
+  resolved "https://registry.yarnpkg.com/@blueprintjs/core/-/core-3.27.0.tgz#de3aab22519e86244fd7f1167f6325e36f1cf058"
+  integrity sha512-ZzwXENczeC9FnzTJ2XiDR+6YNzb68u1fj2HstKarvfrepW/C+0g4Eojo5vi2KWlNw5+RUu/MG7sZc8i7698pQw==
   dependencies:
-    "@blueprintjs/icons" "^3.14.0"
+    "@blueprintjs/icons" "^3.17.0"
     "@types/dom4" "^2.0.1"
     classnames "^2.2"
     dom4 "^2.1.5"
@@ -1064,10 +1064,10 @@
     react-day-picker "7.3.2"
     tslib "~1.9.0"
 
-"@blueprintjs/icons@^3.14.0":
-  version "3.14.0"
-  resolved "https://registry.yarnpkg.com/@blueprintjs/icons/-/icons-3.14.0.tgz#9f9a51b116907d103e4e2e9b78d53d4ac6f107fd"
-  integrity sha512-cvQ3CSdy0DqVqcXcPqSxoycJw497TVP5goyE6xCFlVs84477ahxh7Uung6J+CCoDVBuI87h576LtuyjwSxorvQ==
+"@blueprintjs/icons@^3.17.0":
+  version "3.17.0"
+  resolved "https://registry.yarnpkg.com/@blueprintjs/icons/-/icons-3.17.0.tgz#999fa458252914e111c537b5ed05fb2e12b52ce2"
+  integrity sha512-DRUIxVe0V7eeKYxKFl9bEmQvdpqmMbSUsJjKl9ACgXUQ1wksd2oaFTNLBQEToui/RAWpybWLCl39AG3rlJQeYQ==
   dependencies:
     classnames "^2.2"
     tslib "~1.10.0"
@@ -12131,7 +12131,7 @@ saxes@^3.1.9:
   dependencies:
     xmlchars "^2.1.1"
 
-scheduler@^0.19.0, scheduler@^0.19.1:
+scheduler@^0.19.1:
   version "0.19.1"
   resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.19.1.tgz#4f3e2ed2c1a7d65681f4c854fa8c5a1ccb40f196"
   integrity sha512-n/zwRWRYSUj0/3g/otKDRPMh6qv2SYMWNq85IEa8iZyAv8od9zDYpGSnpBEjNgcMNq6Scbu5KfIPxNF72R/2EA==
